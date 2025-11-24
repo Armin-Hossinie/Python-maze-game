@@ -1,0 +1,2 @@
+python>=3.8
+This project does not have any external libraries.
