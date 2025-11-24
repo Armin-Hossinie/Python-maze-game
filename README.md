@@ -1,6 +1,6 @@
 🚀 How to Run
 
-1️⃣ Install Python (if not installed)
+1️⃣ Install Python
 
 Download from : https://www.python.org/downloads/
 
@@ -15,4 +15,5 @@ cd Python-maze-game
 4️⃣ Run the game
 
 python maze.py
+
 
